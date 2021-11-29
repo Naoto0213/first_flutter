@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: const Text("Flutter入門"),
+          title: const Text("Flutter"),
           actions: const <Widget>[Icon(Icons.add)]),
       body: Center(
         child: Column(
